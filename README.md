@@ -1,4 +1,4 @@
-# AI Agents & Customer Support Analytics | Power BI Challenge #42
+# AI Agents & Customer Support Analytics | Power BI Challenge # FP20 Analytics ZoomCharts Data Challenge
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ The Power BI dashboard transforms customer support data into meaningful business
 
 The objective is to evaluate where AI automation delivers value and where human intervention plays a critical role in improving customer experience.
 
-## Project Link - https://app.fabric.microsoft.com/links/kfbkP7r4kr?ctid=8415fdeb-2fc6-455b-97b6-24bf5ae8ea1d&pbi_source=linkShare&bookmarkGuid=bb087a86-7ad0-43e8-beae-7865113c43a7
+# Project Link - https://app.fabric.microsoft.com/links/kfbkP7r4kr?ctid=8415fdeb-2fc6-455b-97b6-24bf5ae8ea1d&pbi_source=linkShare&bookmarkGuid=bb087a86-7ad0-43e8-beae-7865113c43a7
 
 ## Dashboard Pages
 
