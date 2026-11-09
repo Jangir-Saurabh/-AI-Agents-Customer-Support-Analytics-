@@ -1,42 +1,76 @@
-🚀 **AI Agents & Customer Support Analytics | Power BI Challenge #42**
+# AI Agents & Customer Support Analytics | Power BI Challenge #42
 
-I'm excited to share my latest Power BI project, focused on understanding how AI agents and human support teams impact customer service performance.
+## Project Overview
 
-The objective of this challenge was to go beyond ticket numbers and explore how AI automation, human intervention, resolution time, customer satisfaction, and support costs are connected.
+This project explores how AI-powered support agents and human support teams impact customer service operations.
 
-I designed an interactive dashboard with three key sections:
+The Power BI dashboard transforms customer support data into meaningful business insights, helping organizations understand ticket resolution efficiency, customer satisfaction, SLA performance, automation effectiveness, and operational costs.
 
-Project Link - https://app.fabric.microsoft.com/links/kfbkP7r4kr?ctid=8415fdeb-2fc6-455b-97b6-24bf5ae8ea1d&pbi_source=linkShare&bookmarkGuid=bb087a86-7ad0-43e8-beae-7865113c43a7
+The objective is to evaluate where AI automation delivers value and where human intervention plays a critical role in improving customer experience.
 
-📊 **1. Support Desk Performance**
-- Total ticket volume and monthly trends
-- Initial resolution and First Contact Resolution (FCR)
-- Customer Satisfaction (CSAT) and SLA performance
-- Cost per ticket and issue category analysis
+## Project Link - https://app.fabric.microsoft.com/links/kfbkP7r4kr?ctid=8415fdeb-2fc6-455b-97b6-24bf5ae8ea1d&pbi_source=linkShare&bookmarkGuid=bb087a86-7ad0-43e8-beae-7865113c43a7
 
-🤖 **2. AI vs Human Routes**
-- Comparison of AI-only, AI-to-human, and human-only support
-- Ticket volume versus operational cost
+## Dashboard Pages
+
+### 1. Support Desk Performance
+- Total support tickets and ticket trends
+- Initial Resolution Rate
+- First Contact Resolution (FCR)
+- Customer Satisfaction (CSAT)
+- SLA achievement
+- Support costs and issue category analysis
+
+### 2. AI vs Human Routes
+- AI-only support performance
+- AI-to-human handover analysis
+- Human-only support performance
+- Ticket volume and operational cost comparison
+- Resolution efficiency across support routes
 - Impact of AI handover time on customer satisfaction
-- Resolution efficiency across different support channels
 
-👥 **3. Issues & Customer Analysis**
+### 3. Issues & Customer Analysis
 - Country-wise support performance
-- Issue subcategory and product family analysis
-- Customer segment comparisons
-- Identification of high-cost issues and SLA gaps
+- Issue subcategory analysis
+- Product family analysis
+- Customer segment comparison
+- High-cost support issues and SLA gaps
 
-**A few interesting insights from the analysis:**
+## Key Business Insights
 
-- AI-only support handled around **39% of tickets while accounting for just 4% of total cost.**
-- AI-to-human support accounted for around **29% of tickets but consumed 58% of the total cost.**
-- When AI worked for more than 12 minutes before handing over a ticket, CSAT dropped to **2.92**, while cost increased to **€42.06 per ticket.**
-- Overall dashboard KPIs included **12,000 tickets, 95.01% initial resolution, 80.73% First Contact Fix, and 82.87% SLA achievement.**
+- AI-only support handled approximately 39% of tickets while accounting for 4% of total costs.
+- AI-to-human support accounted for approximately 29% of tickets and 58% of total costs.
+- AI handovers exceeding 12 minutes were associated with a CSAT score of 2.92 and an average cost of €42.06 per ticket.
+- Overall initial resolution rate: 95.01%.
+- First Contact Resolution: 80.73%.
+- SLA achievement: 82.87%.
 
-💡 **My biggest takeaway:** AI automation is not just about reducing human involvement. The real opportunity lies in choosing the right moment to involve human support and delivering a better customer experience while controlling operational costs.
+## Tools & Technologies
 
-**Tools & Skills:** Microsoft Power BI | DAX | Data Modeling | Data Visualization | KPI Development | Business Intelligence
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Data Modeling
+- Data Cleaning & Transformation
+- Interactive Data Visualization
+- Business Intelligence
 
-Every challenge is an opportunity to learn something new, improve analytical thinking, and turn raw data into meaningful business insights.
+## Key Objectives
 
-#PowerBI #PowerBIChallenge #DataAnalytics #AIAnalytics #AIAgents #CustomerSupportAnalytics #BusinessIntelligence #DataVisualization #DAX #MicrosoftFabric #DataDrivenDecisions #DataBuzz
+1. Evaluate AI automation effectiveness.
+2. Compare AI-only, AI-to-human, and human-only support routes.
+3. Identify factors affecting customer satisfaction.
+4. Monitor SLA and resolution performance.
+5. Understand operational costs and support efficiency.
+6. Convert data into actionable business insights.
+
+## Project Takeaway
+
+AI automation is not just about reducing human involvement. The real opportunity is to identify which queries AI can resolve efficiently and when human intervention is necessary.
+
+A well-balanced AI and human support strategy can help organizations improve customer experience while managing operational costs.
+
+---
+
+**Project:** AI Agents & Customer Support Analytics  
+**Challenge:** Power BI Challenge #42  
+**Category:** Business Intelligence | Customer Support Analytics | AI Analytics
