@@ -72,5 +72,5 @@ A well-balanced AI and human support strategy can help organizations improve cus
 ---
 
 **Project:** AI Agents & Customer Support Analytics  
-**Challenge:** Power BI Challenge #42  
+**Challenge:** Power BI Challenge #42 FP20 Analytics ZoomCharts Data Challenge
 **Category:** Business Intelligence | Customer Support Analytics | AI Analytics
